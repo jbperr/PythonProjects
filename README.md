@@ -1,6 +1,7 @@
 # PythonProjects
 Base code and results for my projects.
 
+All visualizations can be found on benperry.org
 
 ### [McDonald's Biscuits and Gravy](https://www.benperry.org/mcbiscuit)
 - Reverse-engineered McDonald's API to:
