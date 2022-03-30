@@ -1,0 +1,13 @@
+###### LINK GATHERING
+
+### DONE
+# chipotle, kfc, pizza hut, whataburger, churches, carls jr, qdoba, JACK IN BOX, PAPA JOHNS, panera, wendys, dunkin, sonic, chik fil a, arbys,jimm jans
+
+### TODO
+# popeyes, 
+
+### NEEDS WORK
+#, dairy queen,  bk, panda, 
+
+### LAST
+# SUBWAY
