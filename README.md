@@ -20,3 +20,6 @@ Because this is just webscraping and not API calls, the code to gather all this 
 ### [Airport Runway Alignment](https://www.benperry.org/airports)
 - Using data from [OurAirports](https://ourairports.com/data/), the information of airports from around the world was analyzed.
 - Using the heading information, the lat/long location of each runway, and some basic algebra I found all the runways in the world that line up with each other. Such that you could fly a plane from runway to runway with no turns. 
+
+### [Wordscapes](https://apps.apple.com/us/app/wordscapes/id1207472156)
+- Given 6 letters, finds all possible words that could be an answer to the wordscape crossword puzzle.
